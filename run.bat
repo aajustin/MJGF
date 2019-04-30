@@ -1,0 +1,1 @@
+airtest run app1.air --device Android:///MKJNW18421008370 --device Android:///7SR8OB4TOR6LFEZ5 

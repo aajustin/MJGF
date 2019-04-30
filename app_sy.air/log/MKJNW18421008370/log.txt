@@ -1,0 +1,3 @@
+{"data": {"ret": null, "name": "stop_app", "start_time": 1556521658.009778, "call_args": {"package": "com.mjgf"}, "end_time": 1556521658.2012677}, "tag": "function", "depth": 1, "time": "2019-04-29 15:07:38"}
+{"data": {"ret": null, "name": "wake", "start_time": 1556521658.2012677, "call_args": {}, "end_time": 1556521660.027409}, "tag": "function", "depth": 1, "time": "2019-04-29 15:07:40"}
+{"data": {"ret": null, "name": "start_app", "start_time": 1556521660.027409, "call_args": {"package": "com.mjgf", "activity": null}, "end_time": 1556521660.9201763}, "tag": "function", "depth": 1, "time": "2019-04-29 15:07:40"}
